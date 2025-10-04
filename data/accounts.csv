@@ -1,0 +1,2 @@
+account_id,customer_id,account_no,account_type,balance,status,created_at
+1,1,BA-2025-0001,SAVINGS,1000.0,ACTIVE,2025-10-04T17:58:27+05:30
